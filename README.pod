@@ -1,0 +1,13 @@
+=pod
+
+=encoding utf8 
+
+=head2 Repositório YAPC::Brasil 2014
+
+Repositório de "rascunhos" sobre o YAPC::Brasil 2014
+
+=head3 Autor
+
+2014 (c) Daniel Vinciguerra
+
+=cut
